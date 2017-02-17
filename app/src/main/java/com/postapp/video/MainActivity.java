@@ -1,13 +1,15 @@
 package com.postapp.video;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
 import com.shuyu.gsyvideoplayer.utils.Debuger;
-
+/**
+ * Created by POST on 2017/2/5.
+ * @hfg
+ */
 public class MainActivity extends Activity {
     private Button openBtn;
     private Button openGuidePage;

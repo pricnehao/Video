@@ -1,9 +1,9 @@
 package com.postapp.video;
 
 /**
- * Created by shuyu on 2016/12/7.
+ * Created by POST on 2017/2/5.
+ * @hfg
  */
-
 public class SwitchVideoModel {
     private String url;
     private String name;

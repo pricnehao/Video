@@ -6,6 +6,7 @@ import android.widget.VideoView;
 
 /**
  * Created by POST on 2017/2/5.
+ * @hfg
  */
 
 public class CustomVideoView extends VideoView {

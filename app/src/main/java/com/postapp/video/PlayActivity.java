@@ -16,9 +16,11 @@ import com.shuyu.gsyvideoplayer.utils.OrientationUtils;
 import java.util.ArrayList;
 import java.util.List;
 
+
 /**
  * 单独的视频播放页面
- * Created by shuyu on 2016/11/11.
+ * Created by POST on 2017/2/5.
+ * @hfg
  */
 public class PlayActivity extends Activity {
 

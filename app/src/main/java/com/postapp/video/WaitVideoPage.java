@@ -8,6 +8,7 @@ import android.view.WindowManager;
 
 /**
  * Created by POST on 2017/2/5.
+ * @hfg
  */
 
 public class WaitVideoPage extends AppCompatActivity  {

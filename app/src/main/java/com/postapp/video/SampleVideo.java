@@ -11,11 +11,10 @@ import com.shuyu.gsyvideoplayer.video.StandardGSYVideoPlayer;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
-
 /**
- * Created by shuyu on 2016/12/7.
+ * Created by POST on 2017/2/5.
+ * @hfg
  */
-
 public class SampleVideo extends StandardGSYVideoPlayer {
 
     private TextView mMoreScale;
